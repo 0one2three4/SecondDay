@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: #28036e;
+    color: aliceblue;
+
+}
+
+h1{
+    margin-top: 5%;
+}
+
+#button1 {
+    background: #c20707;
+    width: 20%;
+    height: 10vh;
+    font-size: 1rem;
+    font-weight: bold;
+    color: aqua;
+    margin-top: 5%;
+    border: 4px solid black;
+    border-radius: 10%;
+}
+
+.center{
+    text-align: center;
+}
